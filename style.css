@@ -387,7 +387,7 @@ footer {
     padding: 15px 0;
 }
 .home-full-photo {
-  background-image: url("photos/banner-index.jpg");
+  background-image: url("banner.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
