@@ -478,3 +478,18 @@ footer {
     text-align: center;
     padding: 15px 0;
 }
+.home-full-photo {
+  background-image: url("photos/banner-index.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: calc(100vh - 140px);
+}
+
+/* MOBILE: show full image */
+@media (max-width: 768px) {
+  .home-full-photo {
+    background-size: contain;
+    background-color: #000; /* fills empty space nicely */
+  }
+}
