@@ -362,7 +362,7 @@ body {
     list-style: none;
     display: flex;
     align-items: center;
-    gap: 14px;
+    gap: 0px;
 }
 
 .nav-links a {
