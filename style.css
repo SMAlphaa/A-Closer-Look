@@ -33,7 +33,7 @@ nav ul.nav {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 2rem;
+  gap: 0rem;
 }
 
 nav ul.nav li {
