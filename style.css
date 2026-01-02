@@ -361,7 +361,8 @@ body {
 .nav-links {
     list-style: none;
     display: flex;
-    gap: 30px;
+    align-items: center;
+    gap: 14px;
 }
 
 .nav-links a {
